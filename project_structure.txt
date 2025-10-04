@@ -1,0 +1,16 @@
+.
+├─ Dockerfile
+├─ Jenkinsfile
+├─ k8s/
+│   ├─ deployment.yaml
+│   ├─ service.yaml
+│   └─ ingress.yaml
+├─ terraform/
+│   ├─ main.tf
+│   ├─ variables.tf
+│   ├─ outputs.tf
+│   └─ providers.tf
+├─ ansible/
+│   ├─ inventory.ini
+│   └─ playbook-jenkins.yml
+└─ (your html files: index.html about.html ...)
