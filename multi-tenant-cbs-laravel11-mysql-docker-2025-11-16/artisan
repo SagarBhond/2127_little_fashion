@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+// placeholder artisan for template
+echo "This template includes placeholder artisan. Replace with real Laravel project for full functionality.\n";
